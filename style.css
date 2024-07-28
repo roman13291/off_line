@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(57, 215, 227);
+    text-align: center;
+}
+.card{
+    width: 800px;
+    height: 950px;
+    text-align: center;
+ display: flex;
+    
+}
+.photo{
+    display: ;
+}
+h1{
+    border: solid, 4px;
+    font-size: 50px;
+color: rgb(255, 0, 0);
+border-radius: 14px 16px 14px 16px;
+box-shadow: 5px 6px rgb(183, 193, 171);
+}
+img{
+    margin: 20px 3px;
+    width: 80%;
+    border-radius: 22px 0px;
+    
+}
+img:hover{
+    border-radius: 80px;
+    box-shadow: 5px 6px goldenrod;
+}
+p{
+    font-size: 22px;
+    font-family: cursive;
+}
