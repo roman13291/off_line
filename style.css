@@ -23,13 +23,16 @@ box-shadow: 5px 6px rgb(183, 193, 171);
 }
 img{
     margin: 20px 3px;
-    width: 80%;
+    width: 300px;
     border-radius: 22px 0px;
     
 }
 img:hover{
     border-radius: 80px;
     box-shadow: 5px 6px goldenrod;
+}
+.lili{
+    width: 500px;
 }
 p{
     font-size: 22px;
